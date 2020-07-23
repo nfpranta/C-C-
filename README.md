@@ -1,2 +1,1 @@
-# C-C-
-1
+All the problems solved from codeforces belongs to this repository
